@@ -1,11 +1,11 @@
 # vehicles_nork
 
 # Como Usar:
-  1 - Clonar o repositório
-  2 - criar virtualenv e ativar
-  3 - pip install -r requirements.txt
-  4 - export FLASK_APP=run
-  5 - flask run
+  - Clonar o repositório
+  - criar virtualenv e ativar
+  - pip install -r requirements.txt
+  - export FLASK_APP=run
+  - flask run
 
 
 ## Rota: Criar usuário.
