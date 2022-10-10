@@ -23,7 +23,7 @@
 	}
 }
 
-Referências:
-Clean Architecture Python: https://www.youtube.com/playlist?list=PLAgbpJQADBGJmTxeRZKWvdJAoJj8_x3si
-https://www.sqlalchemy.org/
-https://flask.palletsprojects.com/en/2.2.x/
+## Referências:
+1 - Clean Architecture Python: https://www.youtube.com/playlist?list=PLAgbpJQADBGJmTxeRZKWvdJAoJj8_x3si
+2 - https://www.sqlalchemy.org/
+3 - https://flask.palletsprojects.com/en/2.2.x/
