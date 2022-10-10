@@ -4,6 +4,8 @@
 1 - Clonar o repositório
 2 - criar virtualenv e ativar
 3 - pip install -r requirements.txt
+4 - export FLASK_APP=run
+5 - flask run
 
 
 ## Rota: Criar usuário.
